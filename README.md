@@ -1,6 +1,6 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=kimyeeun&fontAlign=65&fontAlignY=40&color=gradient)
 
-### 21살, 소프트웨어공학과, 정보통신공학과 재학 중 👋
+### 소프트웨어공학과, 정보통신공학과 재학 중 👋
 
 ---
 ### Skills
@@ -9,7 +9,7 @@
 C / Python / Java
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=자기백준아이디)](https://solved.ac/yeeun0702/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeeun0702)](https://solved.ac/yeeun0702/)
 
 
 ## contact via E-mail : kimyeeun0702@naver.com
