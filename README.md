@@ -15,8 +15,6 @@ C / Python / Java
 ## contact via E-mail : kimyeeun0702@naver.com
 
 
-<img src="https://camo.githubusercontent.com/5e1ffb537fb7903df7a181ea5ee2101c44f697813518cd7ae16fd4afbdd02980/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3337373661623f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666666"/>
-
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
 
 <!--
