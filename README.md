@@ -1,33 +1,45 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=kimyeeun&fontAlign=65&fontAlignY=40&color=gradient)
-
-### 소프트웨어공학과, 정보통신공학과 재학 중 👋
-
----
-### Skills
-
-### Languages
-C / Python / Java
+## Kim Yeeun
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeeun0702)](https://solved.ac/yeeun0702/)
+ **🏫 Education**
+ 
+Sungkonghoe University, Software Engineering & telecommunication engineering 21
+<br></br>
 
 
-## contact via E-mail : kimyeeun0702@naver.com
+ **🚀 Experience**
+
+**SOPT 35th** Server part YB <sup>2024.08 - 2025.01</sup>
+
+**GDSC SKHU 2nd**  Server part member <sup>2023.09 - 2024.06</sup>
+
+**Likelion SKHU 10th** Backend part member <sup>2022.03 - 2022.12</sup>
+<br></br>
+
+**🖥️ GitHub Stats**
+<br>
+  <img src="https://github-readme-stats.vercel.app/api?username=yeeun0702&show_icons=true&text_color=00264b&icon_color=00264b&title_color=00264b" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeeun0702&hide=contribs,prs&show_icons=true&text_color=00264b&icon_color=00264b&title_color=00264b" />
+<br>
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
+**✍️ Tech Blog**
 
-<!--
-**yeeun0702/yeeun0702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"><a href="https://yeunever.tistory.com" target="_blank"></a>
+<img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"><a href="https://velog.io/@yeunever" target="_blank"></a>
 
-Here are some ideas to get you started:
+**💻 Programming Languages**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+
+**📚 Studying**
+
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=black"> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white">
+
+**📮 Contact**
+
+<img src="https://img.shields.io/badge/kye020702@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>  <a href="https://www.instagram.com/yeunever_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+
+
+</a>
