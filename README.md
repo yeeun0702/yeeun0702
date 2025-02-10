@@ -26,7 +26,7 @@ Sungkonghoe University, Software Engineering & telecommunication engineering 21
 **✍️ Tech Blog**
 
 <a href="https://yeunever.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"></a>
-<a href="https://velog.io/@yeunever" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"></a>
+<a href="https://velog.io/@yeunever_" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"></a>
 
 **💻 Programming Languages**
 
