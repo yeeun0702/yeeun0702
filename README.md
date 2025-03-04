@@ -1,12 +1,6 @@
 ## Kim Yeeun
 
 
- **🏫 Education**
- 
-Sungkonghoe University, Software Engineering & telecommunication engineering 21
-<br></br>
-
-
  **🚀 Experience**
 
 **SOPT 35th** Server part YB <sup>2024.08 - 2025.01</sup>
